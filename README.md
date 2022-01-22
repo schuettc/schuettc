@@ -1,16 +1,22 @@
-### Hi there 👋
+### Projects I've Worked On
 
-<!--
-**schuettc/schuettc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* https://github.com/aws-samples/amazon-chime-sma-bridging
+* https://github.com/aws-samples/amazon-chime-sma-call-forwarding
+* https://github.com/aws-samples/amazon-chime-sma-outbound-call-notifications
+* https://github.com/aws-samples/amazon-chime-sma-on-demand-recording
+* https://github.com/aws-samples/amazon-chime-sma-update-call
+* https://github.com/aws-samples/amazon-chime-media-capture-pipeline-demo
+* https://github.com/aws-samples/amazon-chime-sdk-recording-demo
+* https://github.com/aws-samples/amazon-chime-sdk-meetings-breakout-rooms
+* https://github.com/aws-samples/lti-ready-virtual-classroom-with-amazon-chime-sdk
+* https://github.com/aws-samples/building-with-amazon-chime
+* https://github.com/aws-samples/amazon-transcribe-live-call-analytics
 
-Here are some ideas to get you started:
+### Personal Blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://subaud.io/
+
+### Social Media
+
+* [Twitter](https://twitter.com/schuettc5061)
+* [LinkedIn](https://www.linkedin.com/in/courtschuett/)
