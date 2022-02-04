@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://github.com/cdklabs/cdk-amazon-chime-resources
 * https://github.com/aws-samples/amazon-chime-sma-bridging
 * https://github.com/aws-samples/amazon-chime-sma-call-forwarding
 * https://github.com/aws-samples/amazon-chime-sma-outbound-call-notifications
