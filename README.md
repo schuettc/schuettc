@@ -1,5 +1,7 @@
 ### Projects I've Worked On
 
+* https://github.com/schuettc/full-stack-cdk-example
+* https://github.com/schuettc/ec2-asterisk
 * https://github.com/aws-samples/amazon-chime-sdk-click-to-call
 * https://github.com/cdklabs/cdk-amazon-chime-resources
 * https://github.com/aws-samples/amazon-transcribe-live-call-analytics
