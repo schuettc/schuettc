@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex
 * https://github.com/schuettc/full-stack-cdk-example
 * https://github.com/schuettc/ec2-asterisk
 * https://github.com/aws-samples/amazon-chime-sdk-click-to-call
