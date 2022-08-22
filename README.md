@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://github.com/schuettc/single-stack-full-stack-example
 * https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex-ivr
 * https://github.com/aws-samples/amazon-chime-voice-connector-for-sip-trunking
 * https://github.com/schuettc/cdk-create-ami
