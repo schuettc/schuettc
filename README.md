@@ -1,10 +1,11 @@
 ### Projects I've Worked On
 
+* https://github.com/schuettc/nextjs-ssr-with-amplify-deploy
 * https://github.com/schuettc/single-stack-full-stack-example
 * https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex-ivr
 * https://github.com/aws-samples/amazon-chime-voice-connector-for-sip-trunking
+* https://github.com/aws-samples/amazon-chime-media-capture-pipe
 * https://github.com/schuettc/cdk-create-ami
-* https://github.com/aws-samples/amazon-chime-voice-connector-for-sip-trunking
 * https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex
 * https://github.com/schuettc/full-stack-cdk-example
 * https://github.com/schuettc/cdk-lex-zip-import
@@ -17,7 +18,6 @@
 * https://github.com/aws-samples/amazon-chime-sma-outbound-call-notifications
 * https://github.com/aws-samples/amazon-chime-sma-on-demand-recording
 * https://github.com/aws-samples/amazon-chime-sma-update-call
-* https://github.com/aws-samples/amazon-chime-media-capture-pipe
 
 ### Personal Blog
 
