@@ -4,7 +4,7 @@
 * https://github.com/schuettc/single-stack-full-stack-example
 * https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex-ivr
 * https://github.com/aws-samples/amazon-chime-voice-connector-for-sip-trunking
-* https://github.com/aws-samples/amazon-chime-media-capture-pipe
+* https://github.com/aws-samples/amazon-chime-media-capture-pipeline-demo
 * https://github.com/schuettc/cdk-create-ami
 * https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex
 * https://github.com/schuettc/full-stack-cdk-example
