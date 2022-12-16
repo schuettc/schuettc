@@ -27,3 +27,4 @@ https://subaud.io/
 
 * [Twitter](https://twitter.com/schuettc5061)
 * [LinkedIn](https://www.linkedin.com/in/courtschuett/)
+* <a rel="me" href="https://social.subaud.io/@schuettc">Mastodon</a>
