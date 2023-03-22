@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://github.com/aws-samples/amazon-chime-live-events
 * https://github.com/schuettc/cdk-cross-region-cloudfront
 * https://github.com/schuettc/cdk-minecraft
 * https://github.com/schuettc/nextjs-ssr-with-amplify-deploy
