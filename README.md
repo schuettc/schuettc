@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://github.com/schuettc/react-websocket-reader-for-kds
 * https://github.com/schuettc/cdk-fargate-asterisk
 * https://github.com/aws-samples/amazon-chime-sdk-call-analytics-recorder
 * https://github.com/aws-samples/amazon-chime-live-events
