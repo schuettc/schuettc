@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://github.com/schuettc/node-grpc-demo
 * https://github.com/schuettc/ffmpeg-kvs-streaming
 * https://github.com/aws-samples/amazon-chime-sdk-call-analytics-producer
 * https://github.com/aws-samples/amazon-chime-sdk-media-streams
@@ -25,11 +26,7 @@
 * https://github.com/aws-samples/amazon-chime-sdk-click-to-call
 * https://github.com/cdklabs/cdk-amazon-chime-resources
 * https://github.com/aws-samples/amazon-transcribe-live-call-analytics
-* https://github.com/aws-samples/amazon-chime-sma-bridging
-* https://github.com/aws-samples/amazon-chime-sma-call-forwarding
-* https://github.com/aws-samples/amazon-chime-sma-outbound-call-notifications
-* https://github.com/aws-samples/amazon-chime-sma-on-demand-recording
-* https://github.com/aws-samples/amazon-chime-sma-update-call
+
 
 ### Personal Blog
 
