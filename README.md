@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://github.com/schuettc/amazon-chime-sdk-call-analytics-reader
 * https://github.com/aws-samples/amazon-chime-sdk-voice-voice-translator
 * https://github.com/schuettc/node-grpc-demo
 * https://github.com/schuettc/ffmpeg-kvs-streaming
