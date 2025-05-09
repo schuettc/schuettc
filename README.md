@@ -1,5 +1,6 @@
 ### Projects I've Worked On
 
+* https://aws-logs-mcp.subaud.io/
 * https://github.com/aws-samples/anthropic-on-aws
 * https://github.com/schuettc/hosted-whisper-streaming
 * https://github.com/schuettc/amazon-chime-sdk-call-analytics-reader
@@ -28,7 +29,6 @@ https://subaud.io/
 
 ### Social Media
 
-* [Twitter](https://twitter.com/schuettc5061)
 * [LinkedIn](https://www.linkedin.com/in/courtschuett/)
 * [BlueSky](https://bsky.app/profile/schuettc.bsky.social)
 
