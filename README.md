@@ -1,6 +1,7 @@
 ### Projects I've Worked On
 
-* https://aws-logs-mcp.subaud.io/
+* https://github.com/schuettc/plex-collection-creator
+* https://fifteen-two.games/
 * https://alphabetizi.ng/
 * https://github.com/aws-solutions-library-samples/guidance-for-claude-code-with-amazon-bedrock
 * https://github.com/aws-samples/anthropic-on-aws
