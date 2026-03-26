@@ -1,15 +1,13 @@
 ### Projects I've Worked On
 
 * https://github.com/schuettc/plex-collection-creator
+* https://github.com/schuettc/mixcraft-app
+* https://mixcraft.app/
 * https://fifteen-two.games/
 * https://alphabetizi.ng/
-* https://github.com/aws-solutions-library-samples/guidance-for-claude-code-with-amazon-bedrock
-* https://github.com/aws-samples/anthropic-on-aws
-* https://github.com/schuettc/hosted-whisper-streaming
-* https://github.com/schuettc/node-grpc-demo
-* https://github.com/schuettc/ffmpeg-kvs-streaming
-* https://github.com/schuettc/react-websocket-reader-for-kds
-* https://github.com/schuettc/cdk-cross-region-cloudfront
+* https://github.com/schuettc/claude-code-plugins
+* https://github.com/schuettc/dotfiles
+* https://github.com/schuettc/website-deployment-plugin
 * https://github.com/schuettc/single-stack-full-stack-example
 * https://github.com/cdklabs/cdk-amazon-chime-resources
 * https://github.com/aws-samples/amazon-transcribe-live-call-analytics
