@@ -5,13 +5,14 @@
 * https://mixcraft.app/
 * https://fifteen-two.games/
 * https://alphabetizi.ng/
-* https://github.com/schuettc/claude-code-plugins
-* https://github.com/schuettc/dotfiles
-* https://github.com/schuettc/website-deployment-plugin
-* https://github.com/schuettc/single-stack-full-stack-example
-* https://github.com/cdklabs/cdk-amazon-chime-resources
-* https://github.com/aws-samples/amazon-transcribe-live-call-analytics
+* https://spirelink.gg/
 
+## Coding Processes
+* https://github.com/schuettc/dotfiles
+* https://github.com/schuettc/claude-code-plugins
+* https://github.com/schuettc/codex-reviewer
+* https://github.com/schuettc/gemini-reviewer
+* https://github.com/schuettc/website-deployment-plugin
 
 ### Personal Blog
 
