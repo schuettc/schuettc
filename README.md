@@ -1,4 +1,4 @@
-### Projects I've Worked On
+## Projects I've Worked On
 
 * https://github.com/schuettc/plex-collection-creator
 * https://github.com/schuettc/mixcraft-app
