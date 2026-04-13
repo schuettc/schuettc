@@ -12,7 +12,6 @@
 * https://github.com/schuettc/claude-code-plugins
 * https://github.com/schuettc/codex-reviewer
 * https://github.com/schuettc/gemini-reviewer
-* https://github.com/schuettc/website-deployment-plugin
 
 ### Personal Blog
 
