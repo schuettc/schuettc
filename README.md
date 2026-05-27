@@ -2,6 +2,7 @@
 
 * https://github.com/schuettc/plex-collection-creator
 * https://github.com/schuettc/mixcraft-app
+* https://github.com/schuettc/now-playing
 * https://mixcraft.app/
 * https://fifteen-two.games/
 * https://alphabetizi.ng/
