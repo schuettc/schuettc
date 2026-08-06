@@ -11,8 +11,8 @@
 ## Coding Processes
 * https://github.com/schuettc/dotfiles
 * https://github.com/schuettc/claude-code-plugins
-* https://github.com/schuettc/codex-reviewer
-* https://github.com/schuettc/gemini-reviewer
+* https://muster.tools/
+* https://runnerset.dev/
 
 ### Personal Blog
 
