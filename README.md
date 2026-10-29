@@ -13,6 +13,7 @@
 * https://github.com/schuettc/claude-code-plugins
 * https://muster.tools/
 * https://runnerset.dev/
+* https://subaud.tools/how-i-work/
 
 ### Personal Blog
 
